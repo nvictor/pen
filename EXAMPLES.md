@@ -153,6 +153,85 @@ S~ M≈ V. R≠ D@>D~ T↔
 **Song-Level Observation:**
 The song operates with cyclical structure: verse-chorus-verse-chorus-verse-chorus. Each verse explores a different facet of spiritual-physical union, using Suzanne, Jesus, and finally Suzanne-as-mirror. The choruses provide anaphoric anchoring with consistent quatrain form while verses remain free-flowing, mirroring the river motif.
 
+
+### "Hallelujah" by Leonard Cohen
+
+**Verse 1**
+> Now I've heard there was a secret chord / That David played and it pleased the Lord
+> But you don't really care for music, do ya?
+> It goes like this, the fourth, the fifth / The minor fall, the major lift
+> The baffled king composing Hallelujah
+
+**PEN:**
+```text
+S6 M= V. R: D*>D_ T→
+```
+*   `S6`: Sextet (6-line stanza).
+*   `M=`: Regular meter (Iambic/Waltz time).
+*   `V.`: Indicative narrative voice ("I've heard," "It goes").
+*   `R:`: Meta-commentary/Description ("The fourth, the fifth" describes the music itself).
+*   `D*>D_`: Divine (David, Lord) shifts to Abstract/Technical (Chord, Fourth, Fifth).
+*   `T→`: Forward narrative progression.
+
+**Chorus**
+> Hallelujah, Hallelujah / Hallelujah, Hallelujah
+
+**PEN:**
+```text
+S4 M= V! R= D* T↑
+```
+*   `S4`: Quatrain structure.
+*   `V!`: Exclamation/Praise (Apostrophe).
+*   `R=`: Repetition.
+*   `D*`: Divine domain.
+*   `T↑`: Ascending praise.
+
+**Verse 2**
+> Your faith was strong but you needed proof / You saw her bathing on the roof
+> Her beauty and the moonlight overthrew ya
+> She tied you to a kitchen chair / She broke your throne and she cut your hair
+> And from your lips she drew the Hallelujah
+
+**PEN:**
+```text
+S6 M= V. R≠ D*>D. T↓
+```
+*   `S6`: Sextet.
+*   `R≠`: Antithesis (Faith vs Proof, Throne vs Kitchen chair).
+*   `D*>D.`: Shifts from Divine/Cosmic (Faith, Throne) to Somatic/Body (Bathing, Hair, Lips).
+*   `T↓`: Descending—"overthrew," "tied," "broke," "cut."
+
+**Verse 3**
+> You say I took the name in vain / I don't even know the name
+> But if I did, well, really, what's it to ya?
+> There's a blaze of light in every word / It doesn't matter which you heard
+> The holy or the broken Hallelujah
+
+**PEN:**
+```text
+S6 M= V. R≠ D_>D* T↔
+```
+*   `S6`: Sextet.
+*   `V.`: Indicative/Argumentative.
+*   `R≠`: Antithesis (Holy vs Broken).
+*   `D_>D*`: Abstract (Name, Word) to Divine (Holy Hallelujah).
+*   `T↔`: Balanced/Resigned ("It doesn't matter").
+
+**Verse 4**
+> I did my best, it wasn't much / I couldn't feel, so I tried to touch
+> I've told the truth, I didn't come to fool ya
+> And even though it all went wrong / I'll stand before the Lord of song
+> With nothing on my tongue but Hallelujah
+
+**PEN:**
+```text
+S6 M= V. R≠ D.>D* T↑
+```
+*   `S6`: Sextet.
+*   `R≠`: Contrast (Feel vs Touch).
+*   `D.>D*`: Somatic (Touch, Tongue) to Divine (Lord of Song).
+*   `T↑`: Ascending finality (Stand before, Hallelujah).
+
 ## Common Patterns
 *(To be added as the system matures)*
 

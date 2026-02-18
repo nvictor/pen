@@ -28,6 +28,7 @@ The physical container of the verse.
 - `S2`: Couplet.
 - `S3`: Tercet.
 - `S4`: Quatrain.
+- `S6`: Sextet.
 - `S~`: Free verse / Irregular.
 
 ### 2. Meter (M)

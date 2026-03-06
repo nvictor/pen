@@ -48,7 +48,7 @@ S4 M≈ V! R≠ D~ T↓
 
 **PEN:**
 ```text
-S4 V^ R= D*>D*
+S4 M≈ V^ R= D* T↑
 ```
 *   `V^`: "Let...", "Come...".
 *   `R=`: Strong parallelism.
@@ -60,7 +60,7 @@ S4 V^ R= D*>D*
 
 **PEN:**
 ```text
-S4 V! R= D~>D.
+S4 M≈ V! R= D~>D. T↑
 ```
 *   `V!`: "O longing...".
 *   `R=`: Parallel structure.
@@ -72,7 +72,7 @@ S4 V! R= D~>D.
 
 **PEN:**
 ```text
-S4 V^ R≠ D*>D.
+S4 M≈ V^ R≠ D*>D. T↑
 ```
 *   `V^`: "Let...", "Come...".
 *   `R≠`: Contrast of "Spirit" vs "Limb" (Merism: the whole being).
@@ -242,8 +242,9 @@ S6 M= V. R≠ D.>D* T↑
 
 **PEN:**
 ```text
-S4 M≈ V. R= D* T↓
+S4 M≈ V~ R= D* T↓
 ```
+*   `V~`: Intimate address — "I've seen *you*…" directly confronts the beloved/divine.
 *   `R=`: Anaphora — "I've seen you… I've seen you…"
 *   `D*`: Divine/Cosmic — water-to-wine miracle, communion table.
 *   `T↓`: Descending — proximity without transcendence ("don't get high with you").
@@ -257,9 +258,10 @@ S4 M≈ V. R= D* T↓
 
 **PEN:**
 ```text
-S~ M≈ V. R= D@>D_ T↓
+S~ M≈ V~ R= D@>D_ T↓
 ```
 *   `S~`: Irregular — 5 lines, with the refrain folded into the stanza.
+*   `V~`: Intimate — the treaty is addressed to a specific "you."
 *   `R=`: Anaphora — "I wish there was a treaty… I wish there was a treaty."
 *   `D@>D_`: Domestic/Social (war, "bloody hill," treaty) to Abstract ("your love and mine").
 *   `T↓`: Exhaustion and anger — the petition has no answer.
@@ -272,11 +274,12 @@ S~ M≈ V. R= D@>D_ T↓
 
 **PEN:**
 ```text
-S4 M≈ V. R≠ D@>D_ T↔
+S4 M≈ V~ R≠ D@>D_ T⇕
 ```
+*   `V~`: Still addressed to "you" — "that ghost I made *you* be."
 *   `R≠`: Antithesis throughout — sold/free, ghost/real, you/me.
 *   `D@>D_`: Social/Civic (dancing, Jubilee, street) to Abstract (ghost, real, identity).
-*   `T↔`: Ironic equilibrium — the liberation framing ("Jubilee," "free") is immediately undercut by the confession that follows.
+*   `T⇕`: Ironic inversion — the liberation framing ("Jubilee," "free") is immediately undercut by the confession that follows.
 
 **Verse 3**
 > I haven't said a word since you been gone
@@ -287,9 +290,10 @@ S4 M≈ V. R≠ D@>D_ T↔
 
 **PEN:**
 ```text
-S~ M≈ V. R= D_>D~ T↓
+S~ M≈ V~ R= D_>D~ T↓
 ```
 *   `S~`: Irregular — 5 lines, closing couplet breaks the quatrain form.
+*   `V~`: Intimate elegy — "You were *my* ground."
 *   `R=`: Anaphora — "You were my… You were my…"
 *   `D_>D~`: Abstract (words, static, communication) to Nature/Elemental (ground, aerial — both earthing rod and sky antenna).
 *   `T↓`: Loss and silence — the other was the infrastructure of the self.
@@ -310,7 +314,7 @@ S4 M≈ V. R: D~>D* T↓
 
 **Verse 5** *(Repeat of Verse 2)*
 
-Same PEN annotation as Verse 2: `S~ M≈ V. R= D@>D_ T↓`
+Same PEN annotation as Verse 2: `S~ M≈ V~ R= D@>D_ T↓`
 
 **Song-Level Observation:**
 Treaty operates as a legal-spiritual complaint: the speaker addresses an unnamed "you" who is simultaneously the beloved and a deity-figure, conflating romantic and divine failure. The central device is a legal-political lexicon (treaty, hill, sold, free, Jubilee) overlaid on religious imagery (water-to-wine, Jubilee as sabbath year, snake, born again), held together by a consistent `V.` witness stance. The structural arc moves from *witnessing* (V1) → *petition* (V2) → *confession* (Chorus) → *elegy* (V3) → *theological digression* (V4) → *return to petition* (V5). Verse 4 is the pivot: it generalises the failed relationship into a cosmological principle — transformation without protection exposes you to the very poison you shed. The chorus's `T↔` is the formal tension of the song: Jubilee announces freedom while the speaker confesses to having made the other a ghost.

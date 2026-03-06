@@ -314,9 +314,3 @@ Same PEN annotation as Verse 2: `S~ M≈ V. R= D@>D_ T↓`
 
 **Song-Level Observation:**
 Treaty operates as a legal-spiritual complaint: the speaker addresses an unnamed "you" who is simultaneously the beloved and a deity-figure, conflating romantic and divine failure. The central device is a legal-political lexicon (treaty, hill, sold, free, Jubilee) overlaid on religious imagery (water-to-wine, Jubilee as sabbath year, snake, born again), held together by a consistent `V.` witness stance. The structural arc moves from *witnessing* (V1) → *petition* (V2) → *confession* (Chorus) → *elegy* (V3) → *theological digression* (V4) → *return to petition* (V5). Verse 4 is the pivot: it generalises the failed relationship into a cosmological principle — transformation without protection exposes you to the very poison you shed. The chorus's `T↔` is the formal tension of the song: Jubilee announces freedom while the speaker confesses to having made the other a ghost.
-
-## Common Patterns
-*(To be added as the system matures)*
-
-## Edge Cases
-*(To be added as the system matures)*

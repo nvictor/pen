@@ -232,6 +232,89 @@ S6 M= V. R≠ D.>D* T↑
 *   `D.>D*`: Somatic (Touch, Tongue) to Divine (Lord of Song).
 *   `T↑`: Ascending finality (Stand before, Hallelujah).
 
+### "Treaty" by Leonard Cohen
+
+**Verse 1**
+> I've seen you change the water into wine
+> I've seen you change it back to water, too
+> I sit at your table every night
+> I try but I just don't get high with you
+
+**PEN:**
+```text
+S4 M≈ V. R= D* T↓
+```
+*   `R=`: Anaphora — "I've seen you… I've seen you…"
+*   `D*`: Divine/Cosmic — water-to-wine miracle, communion table.
+*   `T↓`: Descending — proximity without transcendence ("don't get high with you").
+
+**Verse 2**
+> I wish there was a treaty we could sign
+> I do not care who takes this bloody hill
+> I'm angry and I'm tired all the time
+> I wish there was a treaty, I wish there was a treaty
+> Between your love and mine
+
+**PEN:**
+```text
+S~ M≈ V. R= D@>D_ T↓
+```
+*   `S~`: Irregular — 5 lines, with the refrain folded into the stanza.
+*   `R=`: Anaphora — "I wish there was a treaty… I wish there was a treaty."
+*   `D@>D_`: Domestic/Social (war, "bloody hill," treaty) to Abstract ("your love and mine").
+*   `T↓`: Exhaustion and anger — the petition has no answer.
+
+**Chorus**
+> Ah, they're dancing in the street—it's Jubilee
+> We sold ourselves for love but now we're free
+> I'm so sorry for that ghost I made you be
+> Only one of us was real and that was me
+
+**PEN:**
+```text
+S4 M≈ V. R≠ D@>D_ T↔
+```
+*   `R≠`: Antithesis throughout — sold/free, ghost/real, you/me.
+*   `D@>D_`: Social/Civic (dancing, Jubilee, street) to Abstract (ghost, real, identity).
+*   `T↔`: Ironic equilibrium — the liberation framing ("Jubilee," "free") is immediately undercut by the confession that follows.
+
+**Verse 3**
+> I haven't said a word since you been gone
+> That any liar couldn't say as well
+> I just can't believe the static coming on
+> You were my ground, my safe and sound
+> You were my aerial
+
+**PEN:**
+```text
+S~ M≈ V. R= D_>D~ T↓
+```
+*   `S~`: Irregular — 5 lines, closing couplet breaks the quatrain form.
+*   `R=`: Anaphora — "You were my… You were my…"
+*   `D_>D~`: Abstract (words, static, communication) to Nature/Elemental (ground, aerial — both earthing rod and sky antenna).
+*   `T↓`: Loss and silence — the other was the infrastructure of the self.
+
+**Verse 4**
+> I heard the snake was baffled by his sin
+> He shed his scales to find the snake within
+> But born again is born without a skin
+> The poison enters into everything
+
+**PEN:**
+```text
+S4 M≈ V. R: D~>D* T↓
+```
+*   `R:`: Extended metaphor — the snake as emblem of sin, transformation, and the failure of rebirth.
+*   `D~>D*`: Nature/Elemental (snake, scales, skin) to Divine/Cosmic (sin, born again, poison as spiritual corruption).
+*   `T↓`: Hard descent — "the poison enters into everything" closes with total entropy.
+
+**Verse 5** *(Repeat of Verse 2)*
+
+Same PEN annotation as Verse 2: `S~ M≈ V. R= D@>D_ T↓`
+
+**Song-Level Observation:**
+Treaty operates as a legal-spiritual complaint: the speaker addresses an unnamed "you" who is simultaneously the beloved and a deity-figure, conflating romantic and divine failure. The central device is a legal-political lexicon (treaty, hill, sold, free, Jubilee) overlaid on religious imagery (water-to-wine, Jubilee as sabbath year, snake, born again), held together by a consistent `V.` witness stance. The structural arc moves from *witnessing* (V1) → *petition* (V2) → *confession* (Chorus) → *elegy* (V3) → *theological digression* (V4) → *return to petition* (V5). Verse 4 is the pivot: it generalises the failed relationship into a cosmological principle — transformation without protection exposes you to the very poison you shed. The chorus's `T↔` is the formal tension of the song: Jubilee announces freedom while the speaker confesses to having made the other a ghost.
+
 ## Common Patterns
 *(To be added as the system matures)*
 

@@ -1,7 +1,7 @@
 # Poetic Engineering Notation (PEN)
 **Version:** 1.0.0
 
-PEN is a symbolic system for describing the structural logic, rhetorical mechanics, and imagery domains of a poem. It combines the structural rigor of BEN with the flow dynamics of GSN.
+PEN is a symbolic system for describing the structural logic, rhetorical mechanics, and imagery domains of a poem.
 
 ## Model: Captures vs Ignores
 
